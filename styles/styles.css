@@ -91,6 +91,7 @@ body {
 
 .project_link {
   margin-left: 10px;
+  font-weight: 700;
 }
 
 .project_bracket {
@@ -162,9 +163,6 @@ body {
 }
 
 /* education styles */
-
-.education {
-}
 
 .educational_institution {
   font-style: normal;
